@@ -12,4 +12,9 @@ famous algorithms: Advantage Actor Critic (A2C) and Proximal Policy Optimisation
 Stock (MANU) to see how the algorithms perform by buying, selling, or holding the stocks to gain the maximum
 profits out of the stocks amid the stochastic and complextity in the stock market and economic world.
 
+![Image Alt text](/images/Introduction.png)
+
+
 ## Methodologies
+
+![Image Alt text](/images/Methodology.png)
